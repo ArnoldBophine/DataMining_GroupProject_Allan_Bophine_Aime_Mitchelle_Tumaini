@@ -6,7 +6,7 @@
 - Aime – Data Mining  
 - Allan – README & Documentation  
 
-## 🎯 Project Objectives & Deliverables
+## Project Objectives & Deliverables
 
 | Role | Responsibilities | Deliverables |
 |------|------------------|--------------|
@@ -18,7 +18,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project explores **general health services and disease burden indicators in Kenya**, using a comprehensive dataset sourced from **Kaggle**. The dataset includes a wide array of health metrics spanning communicable and non-communicable diseases, environmental health risks, health system capacity, universal health coverage (UHC) indices, and demographic health outcomes from as early as 1974 up to projected values for 2025.
 
@@ -30,7 +30,7 @@ Our goal is to:
 
 ---
 
-## 📁 Dataset Description
+## Dataset Description
 
 ### Source
 - **Primary Source**: [Kaggle – Health Indicators in Kenya](https://www.kaggle.com/datasets/idrissssaaaa/health-indicators-in-kenya)
